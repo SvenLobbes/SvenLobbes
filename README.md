@@ -4,7 +4,9 @@ Hi 👋 My name is Sven Lobbes
 CS Student & Hobby Swift Dev
 ----------------------------
 
-3 years cs lessons in school (pascal and html, css) 1 year Swift (iOS) 1 semester at TU Berlin (C and Assembly)
+3 years cs lessons in school (pascal and html, css); 
+1 year Swift (iOS); 
+1 semester at TU Berlin (C and Assembly)
 
 *   🌍  I'm based in Berlin
 *   ✉️  You can contact me at [sven.lobbes@gmail.com](mailto:sven.lobbes@gmail.com)
