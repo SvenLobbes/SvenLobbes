@@ -1,1 +1,2 @@
-cs student at TU Berlin
+Engineer at DEPT®
+Computer Science Student at TU Berlin
